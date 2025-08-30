@@ -1,0 +1,3 @@
+hamza 123 std
+hassan 345 voter
+awais 234 candidate
